@@ -1,4 +1,4 @@
-<a href="#"><img align="left" alt="HTML" src="https://raw.githubusercontent.com/bashirmanafikhi/bashirmanafikhi/main/cover.png" /></a>
+<picture><img align="left" alt="HTML" src="https://raw.githubusercontent.com/bashirmanafikhi/bashirmanafikhi/main/cover.png" /></picture>
 
 
 # Hi there 👋
@@ -11,15 +11,15 @@ My goal is to continue growing my skills and contribute to the success of compan
 ## 🔧 Technologies & Tools
 These are some of the major technologies that I use or have worked on in the past:
 
-<a href="#"><img align="left" alt="c#" width="40px" src="https://user-images.githubusercontent.com/93956445/161402465-60b1f3bd-3ccc-4f73-9e25-c4e38c2cdbc7.png" /></a>
-<a href="#"><img align="left" alt=".Net" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" /></a>
-<a href="#"><img align="left" alt="Angular" width="40px" src="https://camo.githubusercontent.com/b9b1c0029ece2f7cdb79f8c963a67c21fd32b6d8f7a44248b33f1bcf854bd0d9/68747470733a2f2f6272616e64736c6f676f732e636f6d2f77702d636f6e74656e742f75706c6f6164732f696d616765732f6c617267652f616e67756c61722d69636f6e2d6c6f676f2e706e67" /></a>
-<a href="#"><img align="left" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href="#"><img align="left" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<a href="#"><img align="left" alt="Javascript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
-<a href="#"><img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></a>
-<a href="#"><img align="left" alt="Postman" width="40px" src="https://icon-library.com/images/postman-icon/postman-icon-6.jpg" /></a>
-<a href="#"><img align="left" alt="Wordpress" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" /></a>
+<picture><img align="left" alt="c#" width="40px" src="https://user-images.githubusercontent.com/93956445/161402465-60b1f3bd-3ccc-4f73-9e25-c4e38c2cdbc7.png" /></picture>
+<picture><img align="left" alt=".Net" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" /></picture>
+<picture><img align="left" alt="Angular" width="40px" src="https://camo.githubusercontent.com/b9b1c0029ece2f7cdb79f8c963a67c21fd32b6d8f7a44248b33f1bcf854bd0d9/68747470733a2f2f6272616e64736c6f676f732e636f6d2f77702d636f6e74656e742f75706c6f6164732f696d616765732f6c617267652f616e67756c61722d69636f6e2d6c6f676f2e706e67" /></picture>
+<picture><img align="left" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></picture>
+<picture><img align="left" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></picture>
+<picture><img align="left" alt="Javascript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></picture>
+<picture><img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></picture>
+<picture><img align="left" alt="Postman" width="40px" src="https://icon-library.com/images/postman-icon/postman-icon-6.jpg" /></picture>
+<picture><img align="left" alt="Wordpress" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" /></picture>
 <br/>
      
 ***    
